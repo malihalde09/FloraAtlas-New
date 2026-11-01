@@ -3,3 +3,4 @@ folium
 streamlit-folium
 opencv-python-headless
 Pillow
+pytesseract
