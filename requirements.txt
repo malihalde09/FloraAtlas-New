@@ -4,3 +4,4 @@ streamlit-folium
 opencv-python-headless
 Pillow
 pytesseract
+beautifulsoup4
