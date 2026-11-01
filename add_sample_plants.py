@@ -84,3 +84,4 @@ def add_sample_plants():
 
 if __name__ == "__main__":
     add_sample_plants()
+    pytesseract
