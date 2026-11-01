@@ -267,7 +267,7 @@ def process_image(image):
             ai_info = get_gemini_info(plant_name_for_ai)
             st.markdown(f'<div class="ai-card">{ai_info}</div>', unsafe_allow_html=True)
     else:
-        st.error("❌ Is image me koi plant ki information nahi mili.")
+        st.error("❌ No plant information could be found in this image.")
 
 # =====================================================================
 # APP NAVIGATION
